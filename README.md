@@ -1,5 +1,14 @@
 # 🤖 AI-Powered Gold Loan Audit System
 
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-Image%20Processing-green?logo=opencv&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-GUI-orange)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-blueviolet)
+![License](https://img.shields.io/badge/License-MIT-success)
+![Status](https://img.shields.io/badge/Build-Stable-brightgreen)
+
+---
+
 An intelligent desktop application built with **Python, OpenCV, and Tkinter** that automatically analyzes gold chain images to estimate **length, contour properties, and composition (gold vs stone percentage)**.  
 The system also provides **AI-based image comparison** to verify chain authenticity.
 
