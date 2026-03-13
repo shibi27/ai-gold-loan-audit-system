@@ -57,17 +57,13 @@ Outputs include:
 
 Detects contours, calculates chain length, and analyzes composition.
 
-```
-assets/chain_analysis.png
-```
+![Chain Analysis](assets/chain_analysis.png)
 
-## Image Comparison
+## Chain Comparison
 
 Compares two chains and finds matching features.
 
-```
-assets/chain_comparison.png
-```
+![Chain Comparison](assets/chain_comparison.png)
 
 ---
 
